@@ -2,8 +2,6 @@ package med.voll.api.domain.consulta;
 
 import java.time.LocalDateTime;
 
-import org.hibernate.engine.spi.ExecuteUpdateResultCheckStyle;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
